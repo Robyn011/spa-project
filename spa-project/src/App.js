@@ -5,7 +5,7 @@ import AboutPage from './pages/AboutPage';
 import UserProfilePage from './pages/UserProfilePage';
 import NavBar from './components/NavBar';
 import './styles.css'; // Import the CSS file
-
+//kvdqyvd
 function App() {
   const [likedItems, setLikedItems] = useState([]);
 
